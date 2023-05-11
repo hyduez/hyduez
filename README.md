@@ -10,5 +10,5 @@
 ### Currently listening to (on Spotify)
 <img src="https://spotify-hyduez.vercel.app/api/spotify" width="430em">
 
-| <img src="https://github-readme-stats.vercel.app/api?username=hyduez&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" width="450em" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyduez&layout=compact&hide_border=true" width="450em" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=hyduez&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" width="450em" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyduez&layout=compact&hide_border=true" width="410em" /> |
 | :-------------------: | :---------------------------------: |
