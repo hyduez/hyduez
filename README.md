@@ -3,8 +3,8 @@
 1. 💪 Opened PR [#1](https://github.com/jesus-ale43/telegram-question-bot-langchain/pull/1) in [jesus-ale43/telegram-question-bot-langchain](https://github.com/jesus-ale43/telegram-question-bot-langchain)
 2. 🎉 Merged PR [#12](https://github.com/doupkg/lapcord/pull/12) in [doupkg/lapcord](https://github.com/doupkg/lapcord)
 3. 💪 Opened PR [#13](https://github.com/doupkg/lapcord-server/pull/13) in [doupkg/lapcord-server](https://github.com/doupkg/lapcord-server)
-4. 🎉 Merged PR [#12](https://github.com/doupkg/lapcord-server/pull/12) in [doupkg/lapcord-server](https://github.com/doupkg/lapcord-server)
-5. 💪 Opened PR [#12](https://github.com/doupkg/lapcord-server/pull/12) in [doupkg/lapcord-server](https://github.com/doupkg/lapcord-server)
+4. 🚀 Published release [v2.0.1](https://github.com/v2.0.1) in [doupkg/lapcord-server](https://github.com/doupkg/lapcord-server)
+5. 🎉 Merged PR [#12](https://github.com/doupkg/lapcord-server/pull/12) in [doupkg/lapcord-server](https://github.com/doupkg/lapcord-server)
 <!--END_SECTION:activity-->
 
 ### Currently listening to (on Spotify)
