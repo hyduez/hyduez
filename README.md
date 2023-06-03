@@ -1,10 +1,10 @@
 ### My latest contributions on GitHub
 <!--START_SECTION:activity-->
 
-> - [x] 1. 🗑️ Deleted [test](https://github.com/hyduez/hyduez/tree/test) branch in [hyduez/hyduez](https://github.com/hyduez/hyduez)
-> - [x] 2. 🌱 Created [test](https://github.com/hyduez/hyduez/tree/test) branch in [hyduez/hyduez](https://github.com/hyduez/hyduez)
-> - [x] 3. 🗑️ Deleted [w](https://github.com/hyduez/github-activity-readme/tree/w) branch in [hyduez/github-activity-readme](https://github.com/hyduez/github-activity-readme)
-> - [x] 4. 🌱 Created [w](https://github.com/hyduez/github-activity-readme/tree/w) branch in [hyduez/github-activity-readme](https://github.com/hyduez/github-activity-readme)
+> - [x] 1. 🚀 Published [v2.1.3](https://github.com/doupkg/lapcord-server/releases/tag/v2.1.3) in [doupkg/lapcord-server](https://github.com/doupkg/lapcord-server)
+> - [x] 2. 🎉 Merged [#13](https://github.com/doupkg/lapcord-server/pull/13) in [doupkg/lapcord-server](https://github.com/doupkg/lapcord-server)
+> - [x] 3. 🎉 Merged [#14](https://github.com/doupkg/lapcord-server/pull/14) in [doupkg/lapcord-server](https://github.com/doupkg/lapcord-server)
+> - [x] 4. 🌟 Opened [#14](https://github.com/doupkg/lapcord-server/pull/14) in [doupkg/lapcord-server](https://github.com/doupkg/lapcord-server)
 > - [x] 5. 🌱 Created [master](https://github.com/hyduez/hyduez/tree/master) branch in [hyduez/hyduez](https://github.com/hyduez/hyduez)
 <!--END_SECTION:activity-->
 
