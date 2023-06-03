@@ -5,4 +5,3 @@
 > - [x] 3. 🎉 Merged [#14](https://github.com/doupkg/lapcord-server/pull/14) in [doupkg/lapcord-server](https://github.com/doupkg/lapcord-server)
 > - [x] 4. 🌟 Opened [#14](https://github.com/doupkg/lapcord-server/pull/14) in [doupkg/lapcord-server](https://github.com/doupkg/lapcord-server)
 <!--END_SECTION:activity-->
-| :-------------------: | :---------------------------------: |
