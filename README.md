@@ -1,11 +1,11 @@
 ### My latest contributions on GitHub
 <!--START_SECTION:activity-->
 
-> - [x] 1. 🗑️ Deleted [w](https://github.com/hyduez/github-activity-readme/tree/w) branch in [hyduez/github-activity-readme](https://github.com/hyduez/github-activity-readme)
-> - [x] 2. 🌱 Created [w](https://github.com/hyduez/github-activity-readme/tree/w) branch in [hyduez/github-activity-readme](https://github.com/hyduez/github-activity-readme)
-> - [x] 3. 🌱 Created [master](https://github.com/hyduez/hyduez/tree/master) branch in [hyduez/hyduez](https://github.com/hyduez/hyduez)
-> - [x] 4. 🗑️ Deleted [dev](https://github.com/hyduez/hyduez/tree/dev) branch in [hyduez/hyduez](https://github.com/hyduez/hyduez)
-> - [x] 5. 🔖 Created [v2.1.3](https://github.com/doupkg/lapcord-server/tree/v2.1.3) tag in [doupkg/lapcord-server](https://github.com/doupkg/lapcord-server)
+> - [x] 1. 🗑️ Deleted [test](https://github.com/hyduez/hyduez/tree/test) branch in [hyduez/hyduez](https://github.com/hyduez/hyduez)
+> - [x] 2. 🌱 Created [test](https://github.com/hyduez/hyduez/tree/test) branch in [hyduez/hyduez](https://github.com/hyduez/hyduez)
+> - [x] 3. 🗑️ Deleted [w](https://github.com/hyduez/github-activity-readme/tree/w) branch in [hyduez/github-activity-readme](https://github.com/hyduez/github-activity-readme)
+> - [x] 4. 🌱 Created [w](https://github.com/hyduez/github-activity-readme/tree/w) branch in [hyduez/github-activity-readme](https://github.com/hyduez/github-activity-readme)
+> - [x] 5. 🌱 Created [master](https://github.com/hyduez/hyduez/tree/master) branch in [hyduez/hyduez](https://github.com/hyduez/hyduez)
 <!--END_SECTION:activity-->
 
 ### Currently listening to (on Spotify)
