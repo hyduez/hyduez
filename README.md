@@ -1,9 +1,9 @@
 ### My latest contributions on GitHub
 <!--START_SECTION:activity-->
-> - [x] 1. 🍴 Forked [doupkg/.github](https://github.com/doupkg/.github) on [hyduez/.github](undefined)
-> - [x] 2. 🍴 Forked [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) on [hyduez/github-activity-readme](undefined)
-> - [x] 3. 🚀 Published [v2.1.3](https://github.com/doupkg/lapcord-server/releases/tag/v2.1.3) in [doupkg/lapcord-server](https://github.com/doupkg/lapcord-server)
-> - [x] 4. 🎉 Merged [#13](https://github.com/doupkg/lapcord-server/pull/13) in [doupkg/lapcord-server](https://github.com/doupkg/lapcord-server)
+> - [x] 1. 🚀 Opened [#1](https://github.com/hyduez/hyduez/issues/1) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
+> - [x] 2. 🍴 Forked [doupkg/.github](https://github.com/doupkg/.github) on [hyduez/.github](undefined)
+> - [x] 3. 🍴 Forked [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) on [hyduez/github-activity-readme](undefined)
+> - [x] 4. 🚀 Published [v2.1.3](https://github.com/doupkg/lapcord-server/releases/tag/v2.1.3) in [doupkg/lapcord-server](https://github.com/doupkg/lapcord-server)
 <!--END_SECTION:activity-->
 
 ### Currently listening to (on Spotify)
