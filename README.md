@@ -1,6 +1,6 @@
 ### My latest contributions on GitHub
 <!--START_SECTION:activity-->
-> - [x] 1. 🌱 Created [main](https://github.com/hyduez/hyduez/tree/main) branch in [hyduez/hyduez](https://github.com/hyduez/hyduez)
+> - [x] 1. 🗑️ Deleted [main](https://github.com/hyduez/hyduez/tree/main) branch in [hyduez/hyduez](https://github.com/hyduez/hyduez)
 > - [x] 2. ❌ Closed [#3](https://github.com/hyduez/hyduez/issues/3) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
 > - [x] 3. 🚀 Opened [#3](https://github.com/hyduez/hyduez/issues/3) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
 > - [x] 4. 🚀 Opened [#2](https://github.com/hyduez/hyduez/issues/2) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
