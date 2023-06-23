@@ -18,7 +18,8 @@ jobs:
         with:
           EVENT_CREATE: true
           EVENT_DELETE: true
-          EVENT_ISSUECOMMENT: true
-          EVENT_COMMITCOMMENT: true
+          EVENT_ISSUE_COMMENT: true
+          EVENT_COMMIT_COMMENT: true
+          EVENT_PUSH: true
           COMMIT_MSG: 'chore: update activity stream'
           
