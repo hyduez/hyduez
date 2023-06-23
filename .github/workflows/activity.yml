@@ -16,7 +16,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          EVENT_CREATE: false
+          EVENT_CREATE: true
           EVENT_DELETE: true
+          EVENT_ISSUECOMMENT: true
+          EVENT_COMMITCOMMENT: true
           COMMIT_MSG: 'chore: update activity stream'
           
