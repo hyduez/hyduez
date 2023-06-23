@@ -1,10 +1,10 @@
 ### My latest contributions on GitHub
 <!--START_SECTION:activity-->
-> - [x] 1. 📌 Pushed [chore(events): add pushevent](https://github.com/hyduez/hyduez/commit/8a6fa5f6569c778fbb6304f2c59d6cac7fc9be93) on [hyduez/hyduez](https://github.com/hyduez/hyduez)
-> - [x] 2. 📌 Pushed [feat(PushEvent): biggest event](https://github.com/hyduez/github-activity-readme/commit/85f7fa60024e8fbf8f94805abbb6c2260f7a31d7) on [hyduez/github-activity-readme](https://github.com/hyduez/github-activity-readme)
-> - [x] 3. 📌 Pushed [chore(opts): more things](https://github.com/hyduez/hyduez/commit/071426e2aaf9c1d6a3efe1d6ccf78d7d187385d2) on [hyduez/hyduez](https://github.com/hyduez/hyduez)
-> - [x] 4. 📌 Pushed [feat(IssueCommentEvent): trying](https://github.com/hyduez/github-activity-readme/commit/43299d1a208fee7a046bcb0270e3be5c421ab46f) on [hyduez/github-activity-readme](https://github.com/hyduez/github-activity-readme)
-> - [x] 5. 💬 Created [comment](https://github.com/hyduez/hyduez/issues/1#issuecomment-1603849878) at [#1](https://github.com/hyduez/hyduez/issues/1) on [hyduez/hyduez](https://github.com/hyduez/hyduez)
+> - [x] 1. 📌 Pushed [fix(logical): fixing the bug](https://github.com/hyduez/github-activity-readme/commit/4aa5c172a30d8e47e4876f4422b6749d9dd94c1e) in [hyduez/github-activity-readme](https://github.com/hyduez/github-activity-readme)
+> - [x] 2. 📌 Pushed [fix(logical): fixing bugs again](https://github.com/hyduez/github-activity-readme/commit/07640623bad64f109d88555c0dfd79cea4d22476) in [hyduez/github-activity-readme](https://github.com/hyduez/github-activity-readme)
+> - [x] 3. 📌 Pushed [fix(typo): CommmentEvent bruh](https://github.com/hyduez/github-activity-readme/commit/3d43de1681a25d60b4b9a602c3c809312f6f313c) in [hyduez/github-activity-readme](https://github.com/hyduez/github-activity-readme)
+> - [x] 4. 💬 Created [comment](https://github.com/hyduez/hyduez/commit/8a6fa5f6569c778fbb6304f2c59d6cac7fc9be93#commitcomment-119391381) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
+> - [x] 5. 📌 Pushed [chore(events): add pushevent](https://github.com/hyduez/hyduez/commit/8a6fa5f6569c778fbb6304f2c59d6cac7fc9be93) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
 <!--END_SECTION:activity-->
 
 ### Currently listening to (on Spotify)
