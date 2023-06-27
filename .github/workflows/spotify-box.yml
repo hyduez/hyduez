@@ -11,9 +11,10 @@ jobs:
    environment: prod
    steps:
      - uses: actions/checkout@v3
+     - uses: izayl/spotify-box@main
      - run: npm install
      - name: Update gist
-       uses: izayl/spotify-box@main
+       uses: ./
        env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GIST_ID: ${{ secrets.GIST_ID }}
