@@ -1,10 +1,10 @@
 ### My latest contributions on GitHub
 <!--START_SECTION:activity-->
-> - [x] 1. 💬 Created [comment](https://github.com/hyduez/hyduez/issues/1#issuecomment-1605628022) at [#1](https://github.com/hyduez/hyduez/issues/1) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
-> - [x] 2. 💬 Created [comment](https://github.com/hyduez/hyduez/commit/8a6fa5f6569c778fbb6304f2c59d6cac7fc9be93#commitcomment-119393452) at [8a6fa5f](https://github.com/hyduez/hyduez/commit/8a6fa5f6569c778fbb6304f2c59d6cac7fc9be93) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
-> - [x] 3. 📌 Pushed [feat(commitcomment): add commit id to line constant](https://github.com/hyduez/github-activity-readme/commit/fa6636c146b758d9d83d5d4b93157b3000ed90a9) in [hyduez/github-activity-readme](https://github.com/hyduez/github-activity-readme)
-> - [x] 4. 📌 Pushed [fix(logical): fixing the bug](https://github.com/hyduez/github-activity-readme/commit/4aa5c172a30d8e47e4876f4422b6749d9dd94c1e) in [hyduez/github-activity-readme](https://github.com/hyduez/github-activity-readme)
-> - [x] 5. 📌 Pushed [fix(logical): fixing bugs again](https://github.com/hyduez/github-activity-readme/commit/07640623bad64f109d88555c0dfd79cea4d22476) in [hyduez/github-activity-readme](https://github.com/hyduez/github-activity-readme)
+> - [x] 1. 📌 Pushed [fix: fix](https://github.com/hyduez/hyduez/commit/4e12d7e65c7ec6dd18e39c4822972c50b872c05c) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
+> - [x] 2. 📌 Pushed [fix: root](https://github.com/hyduez/hyduez/commit/3d945f7248caccd60b6ed38943fa9163dd46a298) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
+> - [x] 3. 📌 Pushed [feat: spotify-box](https://github.com/hyduez/hyduez/commit/86ff4e150e12b83bb301458898dae178d2a54ddc) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
+> - [x] 4. 📌 Pushed [feat: waka-box.yml](https://github.com/hyduez/hyduez/commit/3dd29513e3386357474f74a90261023231b9a784) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
+> - [x] 5. 📌 Pushed [feat: update name](https://github.com/hyduez/hyduez/commit/66899db5553026c325fc45a523de5847ff8974c6) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
 <!--END_SECTION:activity-->
 
 ### Currently listening to (on Spotify)
