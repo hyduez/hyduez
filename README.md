@@ -1,10 +1,10 @@
 ### My latest contributions on GitHub
 <!--START_SECTION:activity-->
-> - [x] 1. ⭐ Added a star to [hyduez/hyduez](https://github.com/hyduez/hyduez)
-> - [x] 2. 📌 Pushed [docs: i dont remember what i just did](https://github.com/hyduez/github-activity-readme/commit/c2f72a551454d6a3284b50abc0468fd2ab9ece9e) in [hyduez/github-activity-readme](https://github.com/hyduez/github-activity-readme)
-> - [x] 3. 🔖 Created [www](https://github.com/hyduez/hyduez/tree/www) tag in [hyduez/hyduez](https://github.com/hyduez/hyduez)
-> - [x] 4. 🚀 Published [2w2wwa](https://github.com/hyduez/hyduez/releases/tag/www) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
-> - [x] 5. 📌 Pushed [feat: add watchevent](https://github.com/hyduez/hyduez/commit/75ac1ef7e3271a01c52dde42bd6f31e485c0fece) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
+> - [x] 1. ⭐ Added a star to [webpack/webpack](https://github.com/webpack/webpack)
+> - [x] 2. ⭐ Added a star to [mrdoob/three.js](https://github.com/mrdoob/three.js)
+> - [x] 3. ⭐ Added a star to [axios/axios](https://github.com/axios/axios)
+> - [x] 4. ⭐ Added a star to [hyduez/hyduez](https://github.com/hyduez/hyduez)
+> - [x] 5. 📌 Pushed [docs: i dont remember what i just did](https://github.com/hyduez/github-activity-readme/commit/c2f72a551454d6a3284b50abc0468fd2ab9ece9e) in [hyduez/github-activity-readme](https://github.com/hyduez/github-activity-readme)
 <!--END_SECTION:activity-->
 
 ### Currently listening to (on Spotify)
