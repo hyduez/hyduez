@@ -1,10 +1,10 @@
 ### My latest contributions on GitHub
 <!--START_SECTION:activity-->
-> - [x] 1. ⭐ Added a star to [ChessMax/awesome-programming-languages](https://github.com/ChessMax/awesome-programming-languages)
-> - [x] 2. ⭐ Added a star to [ldpreload/BlackLotus](https://github.com/ldpreload/BlackLotus)
-> - [x] 3. ⭐ Added a star to [chaotic-aur/packages](https://github.com/chaotic-aur/packages)
-> - [x] 4. 📌 Pushed [feat: things to test](https://github.com/hyduez/bento/commit/a259badc8024c4f256c2a304e9cf88df9daca0ce) in [hyduez/bento](https://github.com/hyduez/bento)
-> - [x] 5. ⭐ Added a star to [lodash/lodash](https://github.com/lodash/lodash)
+> - [x] 1. ⭐ Added a star to [emilk/egui](https://github.com/emilk/egui)
+> - [x] 2. ⭐ Added a star to [ChessMax/awesome-programming-languages](https://github.com/ChessMax/awesome-programming-languages)
+> - [x] 3. ⭐ Added a star to [ldpreload/BlackLotus](https://github.com/ldpreload/BlackLotus)
+> - [x] 4. ⭐ Added a star to [chaotic-aur/packages](https://github.com/chaotic-aur/packages)
+> - [x] 5. 📌 Pushed [feat: things to test](https://github.com/hyduez/bento/commit/a259badc8024c4f256c2a304e9cf88df9daca0ce) in [hyduez/bento](https://github.com/hyduez/bento)
 <!--END_SECTION:activity-->
 
 ### Currently listening to (on Spotify)
