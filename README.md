@@ -9,3 +9,5 @@
 
 ### Currently listening to (on Spotify)
 <img src="https://spotify-hyduez.vercel.app/api/spotify" width="400em">
+
+![](https://latex.codecogs.com/svg.image?%5Cinline%20%5Chuge%20%5Cfrac%7Be%5E%7B2x%7D&plus;1%7D%7Be%5E%7B3x%7D-1%7D)
