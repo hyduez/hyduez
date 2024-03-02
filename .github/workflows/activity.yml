@@ -21,6 +21,6 @@ jobs:
           EVENT_ISSUE_COMMENT: true
           EVENT_COMMIT_COMMENT: true
           EVENT_PUSH: true
-          EVENT_WATCH: true
+          EVENT_WATCH: false
           COMMIT_MSG: 'chore: update activity stream'
           
