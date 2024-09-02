@@ -1,3 +1,6 @@
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### My latest contributions on GitHub
 <!--START_SECTION:activity-->
 - 🍤 Pushed [chore: change push emoji](https://github.com/hyduez/github-activity-readme/commit/4bd0e625421e4d0fb292890fd4e0b1facb9eed36) in [hyduez/github-activity-readme](https://github.com/hyduez/github-activity-readme)
