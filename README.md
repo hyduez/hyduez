@@ -1,6 +1,10 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+### What I'm currently reading
+<!-- GOODREADS-LIST:START -->
+<!-- GOODREADS-LIST:END -->
+
 ### My latest contributions on GitHub
 <!--START_SECTION:activity-->
 - 🍤 Pushed [chore: add ss](https://github.com/hyduez/dotfiles/commit/f0e50b8f79489c9185ed6d0a43f6064b371c1821) in [hyduez/dotfiles](https://github.com/hyduez/dotfiles)
