@@ -12,11 +12,11 @@
 
 ### My latest contributions on GitHub
 <!--START_SECTION:activity-->
+- 🍤 Pushed [chore: update screenshot](https://github.com/hyduez/dotfiles/commit/8b5806f65289de84215ff07fd51c7bf87d92832d) in [hyduez/dotfiles](https://github.com/hyduez/dotfiles)
 - 🍤 Pushed [feat(fastfetch): add arch-icon to config](https://github.com/hyduez/dotfiles/commit/21fc9dfbde008f384076a1ff21ed5235707e91d2) in [hyduez/dotfiles](https://github.com/hyduez/dotfiles)
 - 🍤 Pushed [fix: maybe](https://github.com/hyduez/hyduez/commit/aa6bf295fccfb0cbb4f5f0e727a10bee87dd4fd2) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
 - 🍤 Pushed [fix: waka readme](https://github.com/hyduez/hyduez/commit/8f75f86cf963a5f4ed2bc04699e50dc115195fbc) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
 - 🍤 Pushed [chore: some features](https://github.com/hyduez/hyduez/commit/aa0f2da462a1af77e2142ea6b380664a867b5906) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
-- 🍤 Pushed [fix: set to every month](https://github.com/hyduez/hyduez/commit/7d142db843eafc1f8339765887b1c8011e24abdf) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
 <!--END_SECTION:activity-->
 
 ### Currently listening to (on Spotify)
