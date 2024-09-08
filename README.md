@@ -12,11 +12,11 @@
 
 ### My latest contributions on GitHub
 <!--START_SECTION:activity-->
+- 🍤 Pushed [fix: maybe](https://github.com/hyduez/hyduez/commit/aa6bf295fccfb0cbb4f5f0e727a10bee87dd4fd2) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
+- 🍤 Pushed [fix: waka readme](https://github.com/hyduez/hyduez/commit/8f75f86cf963a5f4ed2bc04699e50dc115195fbc) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
 - 🍤 Pushed [chore: some features](https://github.com/hyduez/hyduez/commit/aa0f2da462a1af77e2142ea6b380664a867b5906) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
 - 🍤 Pushed [fix: set to every month](https://github.com/hyduez/hyduez/commit/7d142db843eafc1f8339765887b1c8011e24abdf) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
 - 🍤 Pushed [feat(workflow): add goodreads](https://github.com/hyduez/hyduez/commit/0f491a6af33e9fcb98c40d2933e613f916b9d430) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
-- 🍤 Pushed [chore: add goodreads tags](https://github.com/hyduez/hyduez/commit/9e98d5e0775679998417622110d42070fc877c81) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
-- 🍤 Pushed [chore: add ss](https://github.com/hyduez/dotfiles/commit/f0e50b8f79489c9185ed6d0a43f6064b371c1821) in [hyduez/dotfiles](https://github.com/hyduez/dotfiles)
 <!--END_SECTION:activity-->
 
 ### Currently listening to (on Spotify)
