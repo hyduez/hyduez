@@ -2,7 +2,8 @@ name: 'chore: update activity stream'
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    # Run at 00:00 EST
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
