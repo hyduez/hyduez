@@ -61,11 +61,11 @@ Lua                      1 repo              ████░░░░░░░�
 
 ### What I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [The Absent City](https://www.goodreads.com/review/show/6830799490?utm_medium=api&utm_source=rss) by Ricardo Piglia (⭐️3.97)
+- [The Secret Life of the Mind: How Your Brain Thinks, Feels, and Decides](https://www.goodreads.com/review/show/6830795622?utm_medium=api&utm_source=rss) by Mariano Sigman (⭐️4.01)
+- [The Black Book of the Programmer: How to develop a successful career developing software and how to avoid common mistakes](https://www.goodreads.com/review/show/6830792107?utm_medium=api&utm_source=rss) by Rafael Gómez Blanes (⭐️2.7)
 - [The Self-Taught Programmer: The Definitive Guide to Programming Professionally](https://www.goodreads.com/review/show/6830355685?utm_medium=api&utm_source=rss) by Cory  Althoff (⭐️3.87)
 - [How can self-learners learn programming in the most efficient way? A pragmatic approach](https://www.goodreads.com/review/show/6830353251?utm_medium=api&utm_source=rss) by Sebastien Phlix (⭐️)
-- [C++ Primer](https://www.goodreads.com/review/show/6830349890?utm_medium=api&utm_source=rss) by Stanley B. Lippman (⭐️4.21)
-- [El libro negro del programador: Cómo conseguir una carrera de éxito desarrollando software y cómo evitar los errores habituales](https://www.goodreads.com/review/show/6830346385?utm_medium=api&utm_source=rss) by Rafael Gómez Blanes (⭐️3.72)
-- [La ciudad ausente](https://www.goodreads.com/review/show/6830333780?utm_medium=api&utm_source=rss) by Ricardo Piglia (⭐️3.63)
 <!-- GOODREADS-LIST:END -->
 
 ### My latest contributions on GitHub
