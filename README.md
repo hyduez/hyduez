@@ -70,11 +70,11 @@ Lua                      1 repo              ████░░░░░░░�
 
 ### My latest contributions on GitHub
 <!--START_SECTION:activity-->
-- 🍤 Pushed [Updated with Dev Metrics](https://github.com/hyduez/hyduez/commit/b7211d227599a35f93589cb663b5c233a2086f2b) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
-- 🍤 Pushed [Updated with Dev Metrics](https://github.com/hyduez/hyduez/commit/373f03ebf89a01b4f11c3793918efdea88c889bf) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
-- 🍤 Pushed [Updated with Dev Metrics](https://github.com/hyduez/hyduez/commit/ef85166bd87c095be3af0e132b5ff3b1d016bbab) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
-- 🍤 Pushed [Updated with Dev Metrics](https://github.com/hyduez/hyduez/commit/fe7bf72517de4b3abc46ccdb52e2d0a74de49442) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
-- 🍤 Pushed [2 commits](https://github.com/hyduez/dotfiles/tree/refs/heads/master) in [hyduez/dotfiles](https://github.com/hyduez/dotfiles)
+- 🍤 Pushed [chore(format): config.jsonc](https://github.com/hyduez/dotfiles/commit/b466c3e9e31406596e8e0019578f7e1ae11ac635) in [hyduez/dotfiles](https://github.com/hyduez/dotfiles)
+- 🍤 Pushed [chore: some changes](https://github.com/hyduez/dotfiles/commit/9d1e3a026e27209f03941ae6bb187fc4b157c602) in [hyduez/dotfiles](https://github.com/hyduez/dotfiles)
+- 🍤 Pushed [chore: hyprland is wip, lazy neovim will be the next commit :)](https://github.com/hyduez/dotfiles/commit/c54274645c6f0c6d7b2f96bb44382f136179b132) in [hyduez/dotfiles](https://github.com/hyduez/dotfiles)
+- 🍤 Pushed [feat: add few things](https://github.com/hyduez/dotfiles/commit/4a15a58dff9a8ebad82c9d3cad064295ecfc185d) in [hyduez/dotfiles](https://github.com/hyduez/dotfiles)
+- ⭐ Added a star to [lgaboury/Sway-Waybar-Install-Script](https://github.com/lgaboury/Sway-Waybar-Install-Script)
 <!--END_SECTION:activity-->
 
 ### Currently listening to (on Spotify)
