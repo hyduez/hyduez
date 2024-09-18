@@ -70,11 +70,11 @@ Lua                      1 repo              ████░░░░░░░�
 
 ### My latest contributions on GitHub
 <!--START_SECTION:activity-->
+- 🍤 Pushed [Updated with Dev Metrics](https://github.com/hyduez/hyduez/commit/5e1359b31fede748af6ca2bcc095bc892b71778c) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
 - 🍤 Pushed [Updated with Dev Metrics](https://github.com/hyduez/hyduez/commit/b57624681cc2e9baf0e397b55503f7b425c441a7) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
 - 🍤 Pushed [chore(format): config.jsonc](https://github.com/hyduez/dotfiles/commit/b466c3e9e31406596e8e0019578f7e1ae11ac635) in [hyduez/dotfiles](https://github.com/hyduez/dotfiles)
 - 🍤 Pushed [chore: some changes](https://github.com/hyduez/dotfiles/commit/9d1e3a026e27209f03941ae6bb187fc4b157c602) in [hyduez/dotfiles](https://github.com/hyduez/dotfiles)
 - 🍤 Pushed [chore: hyprland is wip, lazy neovim will be the next commit :)](https://github.com/hyduez/dotfiles/commit/c54274645c6f0c6d7b2f96bb44382f136179b132) in [hyduez/dotfiles](https://github.com/hyduez/dotfiles)
-- 🍤 Pushed [feat: add few things](https://github.com/hyduez/dotfiles/commit/4a15a58dff9a8ebad82c9d3cad064295ecfc185d) in [hyduez/dotfiles](https://github.com/hyduez/dotfiles)
 <!--END_SECTION:activity-->
 
 ### Currently listening to (on Spotify)
