@@ -69,11 +69,11 @@ Lua                      1 repo              ████░░░░░░░�
 
 ### My latest contributions on GitHub
 <!--START_SECTION:activity-->
+- 🍤 Pushed [Updated with Dev Metrics](https://github.com/hyduez/hyduez/commit/06d9ad642ce0cecfd83208f88f858bf42d6eae11) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
+- 🔖 Created [null](https://github.com/hyduez/nixos-config/tree/null) tag in [hyduez/nixos-config](https://github.com/hyduez/nixos-config)
+- 🌱 Created [master](https://github.com/hyduez/nixos-config/tree/master) branch in [hyduez/nixos-config](https://github.com/hyduez/nixos-config)
 - 🍤 Pushed [Updated with Dev Metrics](https://github.com/hyduez/hyduez/commit/d402d7d7cd1f31ea0144f95257ab119c1f838be4) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
 - 🍤 Pushed [Updated with Dev Metrics](https://github.com/hyduez/hyduez/commit/63c189fe7869e474215950cb8b09922ee9042796) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
-- ⭐ Added a star to [nix-community/nixvim](https://github.com/nix-community/nixvim)
-- ⭐ Added a star to [nix-community/home-manager](https://github.com/nix-community/home-manager)
-- 🍤 Pushed [Updated with Dev Metrics](https://github.com/hyduez/hyduez/commit/5e1359b31fede748af6ca2bcc095bc892b71778c) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
 <!--END_SECTION:activity-->
 
 ### Currently listening to (on Spotify)
