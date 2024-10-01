@@ -69,11 +69,11 @@ Lua                      1 repo              ████░░░░░░░�
 
 ### My latest contributions on GitHub
 <!--START_SECTION:activity-->
+- ⭐ Added a star to [the-nix-way/dev-templates](https://github.com/the-nix-way/dev-templates)
+- ⭐ Added a star to [NixOS/nix](https://github.com/NixOS/nix)
+- 🍤 Pushed [Updated with Dev Metrics](https://github.com/hyduez/hyduez/commit/2b1a2bda781f878cfa5d283849d371a513fc0ae1) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
 - 🍤 Pushed [Updated with Dev Metrics](https://github.com/hyduez/hyduez/commit/123bb023cbf051abd47b24a1e9ffa8a0ed39179c) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
 - 🍤 Pushed [Updated with Dev Metrics](https://github.com/hyduez/hyduez/commit/f1cf706c734ccf74ca7ea355be5c361d8c907c52) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
-- 🍤 Pushed [Updated with Dev Metrics](https://github.com/hyduez/hyduez/commit/c8d224e34221a64326eccd6fce426385a86b0cf8) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
-- 🍤 Pushed [Updated with Dev Metrics](https://github.com/hyduez/hyduez/commit/396ec031f5270786941d5b458e1ab6d533d61c75) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
-- 🍤 Pushed [Updated with Dev Metrics](https://github.com/hyduez/hyduez/commit/2e1180291b0b5cfd6e86bba149b06bd4643e6775) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
 <!--END_SECTION:activity-->
 
 ### Currently listening to (on Spotify)
