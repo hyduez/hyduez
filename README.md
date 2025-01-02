@@ -63,7 +63,7 @@ Lua                      1 repo              ████░░░░░░░�
 - [The Absent City](https://www.goodreads.com/review/show/6830799490?utm_medium=api&utm_source=rss) by Ricardo Piglia (⭐️3.96)
 - [The Secret Life of the Mind: How Your Brain Thinks, Feels, and Decides](https://www.goodreads.com/review/show/6830795622?utm_medium=api&utm_source=rss) by Mariano Sigman (⭐️4.01)
 - [The Black Book of the Programmer: How to develop a successful career developing software and how to avoid common mistakes](https://www.goodreads.com/review/show/6830792107?utm_medium=api&utm_source=rss) by Rafael Gómez Blanes (⭐️2.7)
-- [The Self-Taught Programmer: The Definitive Guide to Programming Professionally](https://www.goodreads.com/review/show/6830355685?utm_medium=api&utm_source=rss) by Cory  Althoff (⭐️3.88)
+- [The Self-Taught Programmer: The Definitive Guide to Programming Professionally](https://www.goodreads.com/review/show/6830355685?utm_medium=api&utm_source=rss) by Cory  Althoff (⭐️3.87)
 - [How can self-learners learn programming in the most efficient way? A pragmatic approach](https://www.goodreads.com/review/show/6830353251?utm_medium=api&utm_source=rss) by Sebastien Phlix (⭐️)
 <!-- GOODREADS-LIST:END -->
 
