@@ -69,11 +69,11 @@ Lua                      1 repo              ████░░░░░░░�
 
 ### My latest contributions on GitHub
 <!--START_SECTION:activity-->
+- 🍤 Pushed [Updated with Dev Metrics](https://github.com/hyduez/hyduez/commit/e44e8e2ff498c1a34505a1d0d674d6b8d4b201a8) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
 - 🍤 Pushed [Updated with Dev Metrics](https://github.com/hyduez/hyduez/commit/831134fc869456905cb281a07f9ab007fb0d6bc9) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
 - 🍤 Pushed [Updated with Dev Metrics](https://github.com/hyduez/hyduez/commit/c8e256dff8938816c2328fccf6f9beb159f008dd) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
 - 🍤 Pushed [Updated with Dev Metrics](https://github.com/hyduez/hyduez/commit/9e617933c38305f55b1db45fd945d936a6452dd0) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
 - 🍤 Pushed [Updated with Dev Metrics](https://github.com/hyduez/hyduez/commit/67f21cc46e3bdfaf93ba96dd012797225c78ed22) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
-- ⭐ Added a star to [elkowar/eww](https://github.com/elkowar/eww)
 <!--END_SECTION:activity-->
 
 ### Currently listening to (on Spotify)
