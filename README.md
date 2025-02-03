@@ -70,6 +70,8 @@ Lua                      1 repo              ████░░░░░░░�
 
 ### My latest contributions on GitHub
 <!--START_SECTION:activity-->
+- 🍤 Pushed [Updated with Dev Metrics](https://github.com/hyduez/hyduez/commit/17f8fe348d3bc12bdd33fdc21433b939567758f4) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
+
 - 🍤 Pushed [feat: configuration from september 2024
 
 First config I made, im kind of migrating it to a newer one pc, just to have log of it. 
@@ -77,6 +79,9 @@ Currently i have a laptop from Toshiba's Satellite brand, its, if im not wrong, 
 
 Laptops are a scam nowadays, i'll get a workstation instead.](https://github.com/hyduez/nixos-config/commit/4ea80daa17b9b37bcc855b03acde1cd691415c5e) in [hyduez/nixos-config](https://github.com/hyduez/nixos-config)
 - 🍤 Pushed [Updated with Dev Metrics](https://github.com/hyduez/hyduez/commit/715cdbdc7ac4f3d8a88549957feefe35e7548ce3) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
+
+- 🍤 Pushed [Updated with Dev Metrics](https://github.com/hyduez/hyduez/commit/3304fe348bd40b576cd5b503fc1553d2675edd2f) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
+- 🍤 Pushed [Updated with Dev Metrics](https://github.com/hyduez/hyduez/commit/5415fda424962d1a91e022eace00ce7c6dde35f6) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
 - 🍤 Pushed [Updated with Dev Metrics](https://github.com/hyduez/hyduez/commit/3304fe348bd40b576cd5b503fc1553d2675edd2f) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
 - 🍤 Pushed [Updated with Dev Metrics](https://github.com/hyduez/hyduez/commit/5415fda424962d1a91e022eace00ce7c6dde35f6) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
 - 🍤 Pushed [Updated with Dev Metrics](https://github.com/hyduez/hyduez/commit/399edae8aee887b03d43d0911196ffd01482afac) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
