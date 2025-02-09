@@ -70,6 +70,8 @@ Lua                      1 repo              ████░░░░░░░�
 
 ### My latest contributions on GitHub
 <!--START_SECTION:activity-->
+- 🍤 Pushed [Updated with Dev Metrics](https://github.com/hyduez/hyduez/commit/28351c046da984aebf2115de0b93b89eead64900) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
+
 - 🍤 Pushed [Updated with Dev Metrics](https://github.com/hyduez/hyduez/commit/aa5631c30d13bc74c2b407f1bcd29d270e839745) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
 
 - 🍤 Pushed [Updated with Dev Metrics](https://github.com/hyduez/hyduez/commit/5603d07f7e80bd8dd54ffccf59f856ad3a9aab4b) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
@@ -77,8 +79,6 @@ Lua                      1 repo              ████░░░░░░░�
 - 🍤 Pushed [Updated with Dev Metrics](https://github.com/hyduez/hyduez/commit/7ef396c849e163d393179a8bff477a0bde90b920) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
 
 - 🍤 Pushed [Updated with Dev Metrics](https://github.com/hyduez/hyduez/commit/260e632b8bb1d2175d3e342851fdbeb7a8277201) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
-
-- 🍤 Pushed [Updated with Dev Metrics](https://github.com/hyduez/hyduez/commit/17f8fe348d3bc12bdd33fdc21433b939567758f4) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
 
 First config I made, im kind of migrating it to a newer one pc, just to have log of it. 
 Currently i have a laptop from Toshiba's Satellite brand, its, if im not wrong, a S552 series, the problem is that it often overheats about 70+C grades easily (https://envs.sh/mtV.png) so u would say probably that i have to clean the fan or change the thermal paste for the processor, but over a year i try it and it is just impossible to unscrew some screws, and there is the risk of broke or damage a piece of the motherboard. Anyways, it has already a decade being used, so its time to change it. Also it doesnt have a graphic board, it just the integrate radeon graphics that it uses to do all of the work, it does that the core's temperature increase. To have a memory of it, it has a AMD A8-4555M (its an APU) with Radeon 7600G (discrete) and 4 cores of 1.5GHz each. 8GB RAM DDR3 and 1TB HDD disk. And a screen of 15'' 60hz 1366x768 of resolution.
