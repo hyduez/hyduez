@@ -70,11 +70,11 @@ Lua                      1 repo              ████░░░░░░░�
 
 ### My latest contributions on GitHub
 <!--START_SECTION:activity-->
+- 🌱 Created [void-linux](https://github.com/hyduez/dotfiles/tree/void-linux) branch in [hyduez/dotfiles](https://github.com/hyduez/dotfiles)
+- 🍤 Pushed [Updated with Dev Metrics](https://github.com/hyduez/hyduez/commit/6c9bd13c38446e2fe813069494885f246c92493c) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
 - 🍤 Pushed [Updated with Dev Metrics](https://github.com/hyduez/hyduez/commit/54d2b2ada3052f9c72c0cee27535548ab308b1a1) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
 - 🍤 Pushed [Updated with Dev Metrics](https://github.com/hyduez/hyduez/commit/f1dc7895cb95d4948a4ea99474a98b6595a7e6a7) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
 - 🍤 Pushed [Updated with Dev Metrics](https://github.com/hyduez/hyduez/commit/643e3b97fbf9016fda5f331f8c010b73b9dcf465) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
-- 🍤 Pushed [Updated with Dev Metrics](https://github.com/hyduez/hyduez/commit/95230b2e2f91d0b9b89a40e14e700e15002fbb5c) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
-- 🍤 Pushed [Updated with Dev Metrics](https://github.com/hyduez/hyduez/commit/1a558209128c5192769189e8c160ebebe8167119) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
 <!--END_SECTION:activity-->
 
 ### Currently listening to (on Spotify)
