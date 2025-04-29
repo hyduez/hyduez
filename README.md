@@ -79,11 +79,11 @@ JavaScript               1 repo              ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀�
 
 ### My latest contributions on GitHub
 <!--START_SECTION:activity-->
+- 💬 Created [comment](https://github.com/vinceliuice/McMojave-cursors/issues/5#issuecomment-2834376065) at [#5](https://github.com/vinceliuice/McMojave-cursors/issues/5) in [vinceliuice/McMojave-cursors](https://github.com/vinceliuice/McMojave-cursors)
+- 🍤 Pushed [feat(i3wm): enchancing polybar and i3wm](https://github.com/hyduez/dotfiles/commit/7ebcf6231d410b1e932f27dd566e5ea26a618686) in [hyduez/dotfiles](https://github.com/hyduez/dotfiles)
+- 🍤 Pushed [Updated with Dev Metrics](https://github.com/hyduez/hyduez/commit/6eb41630433b3b7992991c93e0457a994c5e88bd) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
 - 🌱 Created [void-linux](https://github.com/hyduez/dotfiles/tree/void-linux) branch in [hyduez/dotfiles](https://github.com/hyduez/dotfiles)
 - 🍤 Pushed [Updated with Dev Metrics](https://github.com/hyduez/hyduez/commit/6c9bd13c38446e2fe813069494885f246c92493c) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
-- 🍤 Pushed [Updated with Dev Metrics](https://github.com/hyduez/hyduez/commit/54d2b2ada3052f9c72c0cee27535548ab308b1a1) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
-- 🍤 Pushed [Updated with Dev Metrics](https://github.com/hyduez/hyduez/commit/f1dc7895cb95d4948a4ea99474a98b6595a7e6a7) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
-- 🍤 Pushed [Updated with Dev Metrics](https://github.com/hyduez/hyduez/commit/643e3b97fbf9016fda5f331f8c010b73b9dcf465) in [hyduez/hyduez](https://github.com/hyduez/hyduez)
 <!--END_SECTION:activity-->
 
 ### Currently listening to (on Spotify)
