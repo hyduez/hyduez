@@ -23,6 +23,6 @@ jobs:
           EVENT_COMMIT_COMMENT: true
           EVENT_PUSH: true
           EVENT_WATCH: true
-          IGNORE_REPOS: 'hyduez/hyduez hyduez/github-activity-readme'
+          IGNORED_REPOS: 'hyduez/hyduez hyduez/github-activity-readme'
           COMMIT_MSG: 'chore: update activity stream'
           
