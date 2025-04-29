@@ -16,5 +16,7 @@ jobs:
           GH_TOKEN: ${{ secrets.WAKA_GIT }}
           SHOW_PROFILE_VIEWS: 'False'
           SHOW_UPDATED_DATE: 'False'
-          SHOW_SHORT_INFO: 'False'
+          SHOW_SHORT_INFO: 'True'
+          COMMIT_BY_ME: 'False'
+          SYMBOL_VERSION: 2
           LOCALE: 'en'
