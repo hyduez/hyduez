@@ -7,10 +7,14 @@
 - 🍤 Pushed [feat(i3wm): enchancing polybar and i3wm](https://github.com/hyduez/dotfiles/commit/7ebcf6231d410b1e932f27dd566e5ea26a618686) in [hyduez/dotfiles](https://github.com/hyduez/dotfiles)
 <!--END_SECTION:activity-->
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-240%20hrs%2036%20mins-blue)
 
-**I'm a Night 🦉** 
+
+<details>
+  <summary><b>WakaTime Stats (Metrics)</b></summary>
+  <br />
+  
+  <!--START_SECTION:waka-->
+  **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                8 commits           ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.80 % 
@@ -60,15 +64,27 @@ JavaScript               1 repo              ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀�
 
 
 <!--END_SECTION:waka-->
+</details>
 
-### What I'm currently reading
-<!-- GOODREADS-LIST:START -->
-- [The Absent City](https://www.goodreads.com/review/show/6830799490?utm_medium=api&utm_source=rss) by Ricardo Piglia (⭐️3.95)
-- [The Secret Life of the Mind: How Your Brain Thinks, Feels, and Decides](https://www.goodreads.com/review/show/6830795622?utm_medium=api&utm_source=rss) by Mariano Sigman (⭐️4)
-- [The Black Book of the Programmer: How to develop a successful career developing software and how to avoid common mistakes](https://www.goodreads.com/review/show/6830792107?utm_medium=api&utm_source=rss) by Rafael Gómez Blanes (⭐️2.82)
-- [The Self-Taught Programmer: The Definitive Guide to Programming Professionally](https://www.goodreads.com/review/show/6830355685?utm_medium=api&utm_source=rss) by Cory  Althoff (⭐️3.88)
-- [How can self-learners learn programming in the most efficient way? A pragmatic approach](https://www.goodreads.com/review/show/6830353251?utm_medium=api&utm_source=rss) by Sebastien Phlix (⭐️)
-<!-- GOODREADS-LIST:END -->
+<details>
+  <summary><b>Workflow Icons (What I Use or I Know)</b></summary>
+  <br />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=bash,bun,codeberg,cpp,css,dailydev,devto,discord,git,gitea,github,githubactions,githubpages,html,huggingface,i3,javascript,json,kitty,lazyvim,librewolf,linux,markdown,mongodb,nextjs,nixos,nodejs,opensource,proton,reddit,tailwindcss,telegram,typescript,vercel,vim,x,yaml,yarn" alt="skills" />
+</details>
 
-### Currently listening to (on Spotify)
-<img src="https://spotify-hyduez.vercel.app/api/spotify" width="400em">
+<details>
+  <summary><b>Additional Information (To Keep Symmetry)</b></summary>
+  <br />
+ <p>I'm 17 y/o and I'm in 2nd grade of High-school, self-tought programmer since 2021 (I was 13 y/o). I'm currently interesed on learning C++, to create an app made with GTK libs, to make it cross-platforms and more reliable on Linux/BSD systems. Also I have in mind do a protocol with ssh-key validation and a lock file to make a private social media, reproducible to make it self-hosted.</p>
+ <p>In my system I'm using Void Linux, with glibc as standard lib, and Nix to create development environments. However, I have been using more distributions before, like Fedora-based distros, Arch-based, Debian-based, NixOS and this one.</p>
+ <p>I started to code with NodeJS runtime, and the last project with it was a LSP to deploy a presence to Discord, that is hosted by <a href="https://github.com/doupkg">@doupkg</a> org, which I'm part of it. Also I'm member of <a href="https://github.com/nosesisaid">@nosesisaid</a>, which is the organization that have the project I mentioned first, an app with GTK.</p>
+ <p>Far from coding, studying how GNU/Linux works, attending my academic course, doing physical sports, I like to study ways of thinking. I wouldn't say philosophy, because I consider that its term is ambiguous in this present time, due to the fact that people designate old ways of thinking, alien to our time, culture and media, as a virtue, when it is not so. We don't make decisions, decisions make us.</p>
+  
+| | Service's name | How to reach me | | Service's name | How to reach me | |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| | Matrix | [@paulo:envs.net](https://matrix.to/#/@paulo:envs.net) | | Reddit | [u/hyduez](https://reddit.com/u/hyduez) | |
+| | Telegram  | [@hyduez](https://hyduez.t.me/) | | Youtube | [@code-dev](https://youtube.com/@code-dev) | |
+</details>
+
+> [!NOTE]
+>  :basecampy:

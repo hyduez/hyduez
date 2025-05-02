@@ -17,6 +17,7 @@ jobs:
           SHOW_PROFILE_VIEWS: 'False'
           SHOW_UPDATED_DATE: 'False'
           SHOW_COMMITS: 'False'
+          SHOW_TOTAL_CODE_TIME: 'False'
           SHOW_SHORT_INFO: 'False'
           COMMIT_BY_ME: 'False'
           SYMBOL_VERSION: 2
