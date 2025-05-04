@@ -22,4 +22,6 @@ jobs:
           COMMIT_BY_ME: 'False'
           SYMBOL_VERSION: 2
           SHOW_DAYS_OF_WEEK: 'False'
+          SHOW_LANGUAGE_PER_REPO: 'False'
+          SHOW_LOC_CHART: 'False'
           LOCALE: 'en'
