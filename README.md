@@ -53,12 +53,12 @@ Linux                    9 hrs 3 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 <!--END_SECTION:waka-->
 
 <p align="center">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=hyduez&rank_icon=github" />
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=hyduez&layout=compact&langs_count=8&card_width=320" />
+  <img height=150 src="https://github-readme-stats.vercel.app/api?username=hyduez&rank_icon=github" />
+  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs?username=hyduez&layout=compact&langs_count=8&card_width=320" />
 </p>
 <hr />
 <p align="center">
-  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=hyduez&layout=compact" />
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=hyduez&layout=compact" />
 </p>
 </details>
 
