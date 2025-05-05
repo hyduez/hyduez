@@ -3,11 +3,11 @@
   <br />
   
 <!--START_SECTION:activity-->
+- ⭐ Added a star to [ipetkov/crane](https://github.com/ipetkov/crane)
 - 💬 Created [comment](https://github.com/Ecuador-In-Tech/web/issues/26#issuecomment-2849382807) at [#26](https://github.com/Ecuador-In-Tech/web/issues/26) in [Ecuador-In-Tech/web](https://github.com/Ecuador-In-Tech/web)
 - 💬 Created [comment](https://github.com/Ecuador-In-Tech/web/issues/6#issuecomment-2849111881) at [#6](https://github.com/Ecuador-In-Tech/web/issues/6) in [Ecuador-In-Tech/web](https://github.com/Ecuador-In-Tech/web)
 - ⭐ Added a star to [naelstrof/maim](https://github.com/naelstrof/maim)
 - 🍱 Pushed [chore: readme updated](https://github.com/hyduez/dotfiles/commit/2353dcdbf83d960d2ca92d1866fb4b62f0565467) in [hyduez/dotfiles](https://github.com/hyduez/dotfiles)
-- 🍱 Pushed [feat(i3): adding gaps preferences](https://github.com/hyduez/dotfiles/commit/8a1baf7e17d5ab15a32df3df34eff7cada642c10) in [hyduez/dotfiles](https://github.com/hyduez/dotfiles)
 <!--END_SECTION:activity-->
 
 </details>
