@@ -69,7 +69,7 @@ Linux                    16 hrs 55 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 <details>
   <summary><b>Workflow Icons (What I Use or I Know)</b></summary>
   <br />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=bash,bun,codeberg,css,dailydev,devto,discord,git,gitea,github,githubactions,githubpages,html,huggingface,i3,javascript,json,kitty,lazyvim,librewolf,linux,markdown,mongodb,nextjs,nixos,nodejs,opensource,proton,reddit,rust,tailwindcss,telegram,typescript,vercel,vim,x,yaml,yarn" alt="skills" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=bash,bun,codeberg,css,dailydev,devto,discord,git,gitea,github,githubactions,githubpages,gtk,html,huggingface,i3,javascript,json,kitty,lazyvim,librewolf,linux,markdown,mongodb,nextjs,nixos,nodejs,opensource,proton,reddit,rust,tailwindcss,telegram,typescript,vercel,vim,x,yaml,yarn" alt="skills" />
 </details>
 
 <details>
@@ -86,11 +86,10 @@ Linux                    16 hrs 55 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 </details>
 
 <details>
-  <summary>Desktop Screenshot (Void Linux with BSPWM)</summary>
+  <summary><b>Desktop Screenshot (Void Linux with BSPWM)</b></summary>
   <br />
   <p>Here are my dotfiles: <a href="https://github.com/hyduez/dotfiles">git@github.com:hyduez/dotfiles</a>. bspwm, polybar, rofi, picom and nothing else :)</p>
-  <br />
-  <img src="https://envs.sh/7tI.png" alt="screenshot" width="320" />
+  <img src="https://envs.sh/7tI.png" alt="screenshot" width="80%" />
 </details>
 
 > [!NOTE]
