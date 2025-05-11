@@ -3,11 +3,11 @@
   <br />
   
 <!--START_SECTION:activity-->
+- 🍱 Pushed [chore: minor changes](https://github.com/hyduez/dotfiles/commit/de4ff6b83ce9d85ca0f563d8e2f30970815c8034) in [hyduez/dotfiles](https://github.com/hyduez/dotfiles)
+- 🍱 Pushed [feat(wallpapers): add directory](https://github.com/hyduez/dotfiles/commit/333a9cca410b4f1a65566ee6efb167e2e4ea696e) in [hyduez/dotfiles](https://github.com/hyduez/dotfiles)
+- 🍱 Pushed [feat(weekly): i3wm -> bspwm :)](https://github.com/hyduez/dotfiles/commit/e01584c345d06ce33b0bb7072aeec3a058d3eb11) in [hyduez/dotfiles](https://github.com/hyduez/dotfiles)
 - ⭐ Added a star to [shikr/xDE](https://github.com/shikr/xDE)
 - ⭐ Added a star to [kr1sp1n/awesome-gemini](https://github.com/kr1sp1n/awesome-gemini)
-- 🍱 Pushed [feat: weekly changes](https://github.com/hyduez/dotfiles/commit/cda4c8ae9283a7f44bd0b7f22596ce7f75242d5f) in [hyduez/dotfiles](https://github.com/hyduez/dotfiles)
-- ⭐ Added a star to [ipetkov/crane](https://github.com/ipetkov/crane)
-- 💬 Created [comment](https://github.com/Ecuador-In-Tech/web/issues/26#issuecomment-2849382807) at [#26](https://github.com/Ecuador-In-Tech/web/issues/26) in [Ecuador-In-Tech/web](https://github.com/Ecuador-In-Tech/web)
 <!--END_SECTION:activity-->
 
 </details>
