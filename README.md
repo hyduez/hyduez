@@ -13,11 +13,11 @@
   <br />
   
 <!--START_SECTION:activity-->
+- ⭐ Added a star to [OIEC/Banco-de-Pruebas](https://github.com/OIEC/Banco-de-Pruebas)
 - 🍱 Pushed [chore: minor changes](https://github.com/hyduez/dotfiles/commit/de4ff6b83ce9d85ca0f563d8e2f30970815c8034) in [hyduez/dotfiles](https://github.com/hyduez/dotfiles)
 - 🍱 Pushed [feat(wallpapers): add directory](https://github.com/hyduez/dotfiles/commit/333a9cca410b4f1a65566ee6efb167e2e4ea696e) in [hyduez/dotfiles](https://github.com/hyduez/dotfiles)
 - 🍱 Pushed [feat(weekly): i3wm -> bspwm :)](https://github.com/hyduez/dotfiles/commit/e01584c345d06ce33b0bb7072aeec3a058d3eb11) in [hyduez/dotfiles](https://github.com/hyduez/dotfiles)
 - ⭐ Added a star to [shikr/xDE](https://github.com/shikr/xDE)
-- ⭐ Added a star to [kr1sp1n/awesome-gemini](https://github.com/kr1sp1n/awesome-gemini)
 <!--END_SECTION:activity-->
 
 </details>
