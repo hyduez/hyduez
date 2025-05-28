@@ -13,11 +13,11 @@
   <br />
   
 <!--START_SECTION:activity-->
+- 🍱 Pushed [feat(sxhkd): add pipewire commands](https://github.com/hyduez/dotfiles/commit/18f848b3c73a08a845089bf0e1a14861fe24d376) in [hyduez/dotfiles](https://github.com/hyduez/dotfiles)
 - ⭐ Added a star to [shikr/sudoku](https://github.com/shikr/sudoku)
 - 🍱 Pushed [3 commits](https://github.com/hyduez/dotfiles/tree/refs/heads/void-linux) in [hyduez/dotfiles](https://github.com/hyduez/dotfiles)
 - 🗑️ Deleted [master](https://github.com/hyduez/dotfiles/tree/master) branch in [hyduez/dotfiles](https://github.com/hyduez/dotfiles)
 - 🗑️ Deleted [main](https://github.com/hyduez/dotfiles/tree/main) branch in [hyduez/dotfiles](https://github.com/hyduez/dotfiles)
-- ⭐ Added a star to [OIEC/Banco-de-Pruebas](https://github.com/OIEC/Banco-de-Pruebas)
 <!--END_SECTION:activity-->
 
 </details>
