@@ -20,4 +20,4 @@
   <img src="https://spotify-hyduez.vercel.app/api/spotify?background_color=2b2d42&border_color=ffffff" alt="ahhh" />
 </details>
 
-`@paulov:mozilla.org` at matrix, `hyduez.t.me` on telegram or just `hyduez` on discord
+`@paulov:mozilla.org` at matrix, `hyduez.t.me` on telegram or just `hyduez` on discord. Or check `0x6C0F4EF2A7BF244B5FDC2DAD45289929995D9F4B` (PGP)
