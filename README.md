@@ -15,9 +15,9 @@
 </details>
 
 <details>
-  <summary><b>Spotify Now-Playing (Deprecated, I'm not using it anymore)</b></summary>
+  <summary><b>GitHub's Commit Streak</b></summary>
   <br />
-  <img src="https://spotify-hyduez.vercel.app/api/spotify?background_color=2b2d42&border_color=ffffff" alt="ahhh" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hyduez" alt="GitHub Streak" /></a>
 </details>
 
 `@paulov:mozilla.org` at matrix, `hyduez.t.me` on telegram or just `hyduez` on discord. Or check `0x6C0F4EF2A7BF244B5FDC2DAD45289929995D9F4B` (PGP)
