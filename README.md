@@ -15,7 +15,7 @@
 </details>
 
 <details>
-  <summary><b>Spotify Now-Playing (deprecated, i'm not using it anymore)</b></summary>
+  <summary><b>Spotify Now-Playing (Deprecated, I'm not using it anymore)</b></summary>
   <br />
   <img src="https://spotify-hyduez.vercel.app/api/spotify?background_color=2b2d42&border_color=ffffff" alt="ahhh" />
 </details>
