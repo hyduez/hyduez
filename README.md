@@ -4,7 +4,7 @@
 <details>
   <summary><b>Workflow Time (My Time Working)</b></summary>
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hyduez&layout=compact" alt="timecoding" />
+  <img src="./assets/waka.svg" alt="timecoding" />
 </details>
 
 <details>
