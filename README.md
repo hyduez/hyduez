@@ -11,7 +11,7 @@
   <summary><b>Desktop Screenshot (Void Linux)</b></summary>
   <br />
   <p>Here are my dotfiles: <a href="https://github.com/hyduez/dotfiles">git@github.com:hyduez/dotfiles</a>. Just another bunch of common libraries (old screenshot with river-classic)</p>
-  <a href="https://inv.nadeko.net/watch?v=yNcOrNU_JPM" target="_blank"><img src="assets/ss.png" alt="screenshot" width="80%" /></a>
+  <a href="https://github.com/hyduez/dotfiles" target="_blank"><img src="assets/screenshot.png" alt="screenshot" width="80%" /></a>
 </details>
 
 <details>
