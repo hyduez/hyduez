@@ -862,7 +862,7 @@
     <g transform="translate(25, 300)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Text - 1 hr 25 mins
+        Text - 1 hr 26 mins
       </text>
     </g>
   
