@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="201.5775"
+            width="201.53100000000003"
             height="8"
             fill="#858585"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="201.5775"
+            x="201.53100000000003"
             y="0"
-            width="98.85900000000001"
+            width="98.8125"
             height="8"
             fill="#3178c6"
           />
@@ -147,7 +147,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="300.4365"
+            x="300.34350000000006"
             y="0"
             width="16.5075"
             height="8"
@@ -157,7 +157,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="316.944"
+            x="316.85100000000006"
             y="0"
             width="16.182000000000002"
             height="8"
@@ -167,7 +167,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="333.12600000000003"
+            x="333.0330000000001"
             y="0"
             width="14.88"
             height="8"
@@ -177,7 +177,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="348.00600000000003"
+            x="347.91300000000007"
             y="0"
             width="13.531500000000001"
             height="8"
@@ -187,7 +187,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="361.5375"
+            x="361.44450000000006"
             y="0"
             width="11.764499999999998"
             height="8"
@@ -197,7 +197,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="373.302"
+            x="373.20900000000006"
             y="0"
             width="11.067"
             height="8"
@@ -207,7 +207,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="384.369"
+            x="384.27600000000007"
             y="0"
             width="9.951"
             height="8"
@@ -217,9 +217,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="394.32000000000005"
+            x="394.2270000000001"
             y="0"
-            width="9.532499999999999"
+            width="9.486"
             height="8"
             fill="#f34b7d"
           />
@@ -227,7 +227,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="403.8525000000001"
+            x="403.7130000000001"
             y="0"
             width="8.6025"
             height="8"
@@ -237,7 +237,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="412.4550000000001"
+            x="412.3155000000001"
             y="0"
             width="7.254"
             height="8"
@@ -247,9 +247,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="419.7090000000001"
+            x="419.5695000000001"
             y="0"
-            width="6.0915"
+            width="6.2775"
             height="8"
             fill="#083fa1"
           />
@@ -257,9 +257,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="425.8005000000001"
+            x="425.8470000000001"
             y="0"
-            width="5.9985"
+            width="5.952000000000001"
             height="8"
             fill="#663399"
           />
@@ -802,7 +802,7 @@
     <g transform="translate(25, 175)">
       <circle cx="5" cy="6" r="5" fill="#083fa1" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Markdown - 6 hrs 20 mins
+        Markdown - 6 hrs 32 mins
       </text>
     </g>
   
