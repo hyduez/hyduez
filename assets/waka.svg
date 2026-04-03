@@ -788,7 +788,7 @@
     <g transform="translate(25, 150)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Bash - 8 hrs 55 mins
+        Bash - 8 hrs 56 mins
       </text>
     </g>
   
