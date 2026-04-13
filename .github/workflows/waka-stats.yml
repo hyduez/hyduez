@@ -15,7 +15,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: wakatime
-          options: username=${{ github.repository_owner }}&layout=compact
+          options: username=${{ github.repository_owner }}&layout=compact&api_domain=hackatime.hackclub.com
           path: assets/waka.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
