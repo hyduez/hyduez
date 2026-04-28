@@ -1,6 +1,9 @@
 > [!NOTE]
 > If you want to know more about my work, visit my **[ORCID](https://orcid.org/0009-0000-1211-9373)** (0009-0000-1211-9373)
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <details>
   <summary><b>Workflow Time (My Time Working)</b></summary>
   <br />
