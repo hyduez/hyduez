@@ -1,5 +1,7 @@
 > [!NOTE]
-> If you want to know more about my work, visit my **[ORCID](https://orcid.org/0009-0000-1211-9373)** (0009-0000-1211-9373)
+> If you want to know more about my work, visit my **[ORCID](https://orcid.org/0009-0000-1211-9373)** (0009-0000-1211-9373) :basecamp:
+
+### Latest Activity on GitHub :octocat:
 
 <!--START_SECTION:activity-->
 - 🍱 Pushed [89ad05a](https://github.com/hyduez/rocky/commit/89ad05a3ce90e5a4a1ba67c8fcc52c23ffaae0a4) in [hyduez/rocky](https://github.com/hyduez/rocky)
