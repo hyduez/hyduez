@@ -34,7 +34,7 @@ Check `0x6C0F4EF2A7BF244B5FDC2DAD45289929995D9F4B` (PGP) for my SMTP/XMPP user.
 
 ###### I only land my skill sets and cv on jobs platform, here you can look at **[@dousec](https://github.com/dousec)** and **[@nosesisaid](https://github.com/nosesisaid)**. GMT-5 🇪🇨
 
-### Featured Channel I Really Like :)
+### Featured channel I reaaly like :)
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![ALBERT CAMUS: El Pensador del Absurdo](https://ytcards.demolab.com/?id=JWUczWyN1Ro&title=ALBERT+CAMUS%3A+El+Pensador+del+Absurdo&lang=en&timestamp=1777561240&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "ALBERT CAMUS: El Pensador del Absurdo")](https://www.youtube.com/watch?v=JWUczWyN1Ro)
