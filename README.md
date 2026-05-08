@@ -4,11 +4,11 @@
 ### Latest Activity on GitHub :octocat:
 
 <!--START_SECTION:activity-->
+- 🍱 Pushed [6e50f63](https://github.com/dousec/nixos/commit/6e50f63ce8ef0c7a6cd0656c33bed4efe6680cd0) in [dousec/nixos](https://github.com/dousec/nixos)
 - ⭐ Added a star to [IogaMaster/flux](https://github.com/IogaMaster/flux)
 - 🌱 Created [master](https://github.com/hyduez/derlas-bot/tree/master) branch in [hyduez/derlas-bot](https://github.com/hyduez/derlas-bot)
 - 🍱 Pushed [d08190e](https://github.com/hyduez/void-packages/commit/d08190e7d1b67605703cf8b53fade4557558eefa) in [hyduez/void-packages](https://github.com/hyduez/void-packages)
 - 🍱 Pushed [297cafe](https://github.com/hyduez/dotfiles/commit/297cafe0489a3e663a15a37b831b092c1ad89ab4) in [hyduez/dotfiles](https://github.com/hyduez/dotfiles)
-- 🍱 Pushed [14f0215](https://github.com/hyduez/void-packages/commit/14f021563c0fd2efd63dbd8131cdd8c81aa221f2) in [hyduez/void-packages](https://github.com/hyduez/void-packages)
 <!--END_SECTION:activity-->
 
 <details>
