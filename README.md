@@ -4,11 +4,11 @@
 ### Latest Activity on GitHub :octocat:
 
 <!--START_SECTION:activity-->
+- 🍱 Pushed [ecd300b](https://github.com/dousec/nixos/commit/ecd300be1afd166bdbd0c055427e97e8069c025f) in [dousec/nixos](https://github.com/dousec/nixos)
+- 🍱 Pushed [5cb54cc](https://github.com/dousec/nixos/commit/5cb54cc6d60caa2e52e43b16b25bf10ca95b9adb) in [dousec/nixos](https://github.com/dousec/nixos)
+- 🍱 Pushed [c25086f](https://github.com/dousec/nixos/commit/c25086f90c734cadd78cb68c3549398f7e7ff057) in [dousec/nixos](https://github.com/dousec/nixos)
+- 🍱 Pushed [ccefbf0](https://github.com/dousec/nixos/commit/ccefbf0f5b1d3e793ebaf6d51354198aae28330e) in [dousec/nixos](https://github.com/dousec/nixos)
 - 🍱 Pushed [172f032](https://github.com/dousec/nixos/commit/172f03214a36ebb9d6044da8df852b6eb47f38e3) in [dousec/nixos](https://github.com/dousec/nixos)
-- 🍱 Pushed [0978e7b](https://github.com/hyduez/void-packages/commit/0978e7ba8428442804ceeb7e10d1401424e5e8a5) in [hyduez/void-packages](https://github.com/hyduez/void-packages)
-- ⭐ Added a star to [xiph/rnnoise](https://github.com/xiph/rnnoise)
-- 🍱 Pushed [7d08b4f](https://github.com/dousec/nixos/commit/7d08b4f06475f649f8a1467deb61e4d467b35c62) in [dousec/nixos](https://github.com/dousec/nixos)
-- 🍱 Pushed [de73039](https://github.com/hyduez/void-packages/commit/de73039b0af922417233a58e659baf6bc4597bee) in [hyduez/void-packages](https://github.com/hyduez/void-packages)
 <!--END_SECTION:activity-->
 
 <details>
