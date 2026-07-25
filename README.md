@@ -11,8 +11,6 @@
 - 🍱 Pushed [ecd300b](https://github.com/dousec/nixos/commit/ecd300be1afd166bdbd0c055427e97e8069c025f) in [dousec/nixos](https://github.com/dousec/nixos)
 <!--END_SECTION:activity-->
 
-<img src="https://spotify-omega-eosin.vercel.app/api/orchestrator" alt="Spotify" width="70%" />
-
 <details>
   <summary><b>Workflow Time (My Time Working)</b></summary>
   <br />
@@ -35,6 +33,10 @@
 Check `0x6C0F4EF2A7BF244B5FDC2DAD45289929995D9F4B` (PGP) for my SMTP/XMPP user.
 
 ###### I only land my skill sets and cv on jobs platform, here you can look at **[@dousec](https://github.com/dousec)** and **[@nosesisaid](https://github.com/nosesisaid)**. GMT-5 🇪🇨
+
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=8jdmypnuigtkzwdncg4euo0xw&redirect=true">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=8jdmypnuigtkzwdncg4euo0xw&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark" width="40%" />
+</a>
 
 ### Featured channel I reaaly like :)
 
