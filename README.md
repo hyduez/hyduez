@@ -11,6 +11,8 @@
 - 🍱 Pushed [ecd300b](https://github.com/dousec/nixos/commit/ecd300be1afd166bdbd0c055427e97e8069c025f) in [dousec/nixos](https://github.com/dousec/nixos)
 <!--END_SECTION:activity-->
 
+<img src="https://spotify-omega-eosin.vercel.app/api/orchestrator" alt="Spotify" width="70%" />
+
 <details>
   <summary><b>Workflow Time (My Time Working)</b></summary>
   <br />
