@@ -4,11 +4,11 @@
 ### Latest Activity on GitHub :octocat:
 
 <!--START_SECTION:activity-->
+- 🍱 Pushed [33ab83a](https://github.com/dousec/nixos/commit/33ab83aaafea6162f1b3984261311584f10e67a9) in [dousec/nixos](https://github.com/dousec/nixos)
+- 🍱 Pushed [debfe57](https://github.com/dousec/nixos/commit/debfe5779033baefdd2fe9080bc4584525f18e1a) in [dousec/nixos](https://github.com/dousec/nixos)
+- ⭐ Added a star to [nix-community/bun2nix](https://github.com/nix-community/bun2nix)
 - 🍱 Pushed [297cafe](https://github.com/hyduez/dotfiles/commit/297cafe0489a3e663a15a37b831b092c1ad89ab4) in [hyduez/dotfiles](https://github.com/hyduez/dotfiles)
 - 🍱 Pushed [c88bde0](https://github.com/hyduez/dotfiles/commit/c88bde04514f77cf66d19d68ba8dd3c8945bb3a2) in [hyduez/dotfiles](https://github.com/hyduez/dotfiles)
-- 🍱 Pushed [c5695fa](https://github.com/hyduez/dotfiles/commit/c5695fa7696a0ce17d5eb77c425e0d24ce0feca1) in [hyduez/dotfiles](https://github.com/hyduez/dotfiles)
-- 🍱 Pushed [33e70b2](https://github.com/hyduez/dotfiles/commit/33e70b267bd3d1855ec507027fe26facb8d7ab6a) in [hyduez/dotfiles](https://github.com/hyduez/dotfiles)
-- 🍱 Pushed [a9830cf](https://github.com/hyduez/dotfiles/commit/a9830cf5b6cd25f7fcdf6374fd2de612f85142e6) in [hyduez/dotfiles](https://github.com/hyduez/dotfiles)
 <!--END_SECTION:activity-->
 
 <details>
