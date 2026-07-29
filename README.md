@@ -4,11 +4,11 @@
 ### Latest Activity on GitHub :octocat:
 
 <!--START_SECTION:activity-->
-- 🍱 Pushed [33ab83a](https://github.com/dousec/nixos/commit/33ab83aaafea6162f1b3984261311584f10e67a9) in [dousec/nixos](https://github.com/dousec/nixos)
-- 🍱 Pushed [debfe57](https://github.com/dousec/nixos/commit/debfe5779033baefdd2fe9080bc4584525f18e1a) in [dousec/nixos](https://github.com/dousec/nixos)
-- ⭐ Added a star to [nix-community/bun2nix](https://github.com/nix-community/bun2nix)
-- 🍱 Pushed [297cafe](https://github.com/hyduez/dotfiles/commit/297cafe0489a3e663a15a37b831b092c1ad89ab4) in [hyduez/dotfiles](https://github.com/hyduez/dotfiles)
-- 🍱 Pushed [c88bde0](https://github.com/hyduez/dotfiles/commit/c88bde04514f77cf66d19d68ba8dd3c8945bb3a2) in [hyduez/dotfiles](https://github.com/hyduez/dotfiles)
+- 🍱 Pushed [6b77de6](https://github.com/dousec/papers/commit/6b77de6c82c4c004c278ea98d587038b58fef871) in [dousec/papers](https://github.com/dousec/papers)
+- 🍱 Pushed [2435dc8](https://github.com/dousec/papers/commit/2435dc8e1c45725a04a2b35df92733e2cdce98c8) in [dousec/papers](https://github.com/dousec/papers)
+- 🍱 Pushed [7a445b5](https://github.com/dousec/papers/commit/7a445b56facd9690823cb3e73e692e8944c646eb) in [dousec/papers](https://github.com/dousec/papers)
+- 🍱 Pushed [c75565d](https://github.com/dousec/nixos/commit/c75565dd50f38c6ec4e3c595488cc3592d1fb2b5) in [dousec/nixos](https://github.com/dousec/nixos)
+- 🍱 Pushed [8dc21a9](https://github.com/dousec/papers/commit/8dc21a9aa1d7d10b24bc479c9cf4cfb818bee983) in [dousec/papers](https://github.com/dousec/papers)
 <!--END_SECTION:activity-->
 
 <details>
