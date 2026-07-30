@@ -4,11 +4,11 @@
 ### Latest Activity on GitHub :octocat:
 
 <!--START_SECTION:activity-->
-- 🍱 Pushed [6b77de6](https://github.com/dousec/papers/commit/6b77de6c82c4c004c278ea98d587038b58fef871) in [dousec/papers](https://github.com/dousec/papers)
-- 🍱 Pushed [2435dc8](https://github.com/dousec/papers/commit/2435dc8e1c45725a04a2b35df92733e2cdce98c8) in [dousec/papers](https://github.com/dousec/papers)
-- 🍱 Pushed [7a445b5](https://github.com/dousec/papers/commit/7a445b56facd9690823cb3e73e692e8944c646eb) in [dousec/papers](https://github.com/dousec/papers)
-- 🍱 Pushed [c75565d](https://github.com/dousec/nixos/commit/c75565dd50f38c6ec4e3c595488cc3592d1fb2b5) in [dousec/nixos](https://github.com/dousec/nixos)
-- 🍱 Pushed [8dc21a9](https://github.com/dousec/papers/commit/8dc21a9aa1d7d10b24bc479c9cf4cfb818bee983) in [dousec/papers](https://github.com/dousec/papers)
+- 🍱 Pushed [46d8787](https://github.com/dousec/nixos/commit/46d87876f2455f09e66de1ad49f206b242c8bcf0) in [dousec/nixos](https://github.com/dousec/nixos)
+- 🍱 Pushed [8155265](https://github.com/dousec/nixos/commit/8155265a2caa53646e682d7e9441fa083aa5babd) in [dousec/nixos](https://github.com/dousec/nixos)
+- 🍱 Pushed [f83ccbf](https://github.com/dousec/nixos/commit/f83ccbfc43fd75016ece3f737ea138acad8ecf37) in [dousec/nixos](https://github.com/dousec/nixos)
+- 🍱 Pushed [c9fa3b8](https://github.com/dousec/nixos/commit/c9fa3b834f30c76ce20f32d503fe4d89009cd240) in [dousec/nixos](https://github.com/dousec/nixos)
+- 🍱 Pushed [4fa309c](https://github.com/dousec/nixos/commit/4fa309ce5b6105ad7dbc49953321b00958284f3b) in [dousec/nixos](https://github.com/dousec/nixos)
 <!--END_SECTION:activity-->
 
 <details>
