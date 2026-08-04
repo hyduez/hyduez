@@ -4,11 +4,11 @@
 ### Latest Activity on GitHub :octocat:
 
 <!--START_SECTION:activity-->
+- ⭐ Added a star to [unjs/jiti](https://github.com/unjs/jiti)
+- 🍱 Pushed [ff53c7a](https://github.com/dousec/nixos/commit/ff53c7a8a233bcac1fafe64b961aea0dca92f765) in [dousec/nixos](https://github.com/dousec/nixos)
+- ⭐ Added a star to [earendil-works/pi](https://github.com/earendil-works/pi)
+- 🍱 Pushed [637aa0c](https://github.com/dousec/nixos/commit/637aa0cf3ac0afc628fe9f57dad22f6f6beb5b85) in [dousec/nixos](https://github.com/dousec/nixos)
 - 🍱 Pushed [27457b1](https://github.com/dousec/nixos/commit/27457b1938549df60bb304cd40158538c9eab86b) in [dousec/nixos](https://github.com/dousec/nixos)
-- 🍱 Pushed [611fdbc](https://github.com/dousec/nixos/commit/611fdbc99104c7f3733e4566592691fb64a80082) in [dousec/nixos](https://github.com/dousec/nixos)
-- 🍱 Pushed [5689a27](https://github.com/dousec/nixos/commit/5689a27fadb1cf0238a62954359b3597b13028b3) in [dousec/nixos](https://github.com/dousec/nixos)
-- 🍱 Pushed [468eb04](https://github.com/dousec/nixos/commit/468eb04e20eeb08982ae73091f81afc178a82f64) in [dousec/nixos](https://github.com/dousec/nixos)
-- 🍱 Pushed [c95deb3](https://github.com/dousec/nixos/commit/c95deb3f5073da46bb78faef0fc89d9d95bef820) in [dousec/nixos](https://github.com/dousec/nixos)
 <!--END_SECTION:activity-->
 
 <details>
