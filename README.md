@@ -4,11 +4,11 @@
 ### Latest Activity on GitHub :octocat:
 
 <!--START_SECTION:activity-->
-- 🍱 Pushed [401d6c2](https://github.com/dousec/portfolio/commit/401d6c20f66f0c96eb5c66456bfd5272e8eec9fd) in [dousec/portfolio](https://github.com/dousec/portfolio)
-- 🍱 Pushed [94d156e](https://github.com/dousec/portfolio/commit/94d156ed72f57804d435281c6777a70a45e6a54e) in [dousec/portfolio](https://github.com/dousec/portfolio)
-- 🍱 Pushed [657a1a4](https://github.com/dousec/nixos/commit/657a1a480c2345320a4ae9506702d51100d5669c) in [dousec/nixos](https://github.com/dousec/nixos)
-- 🍱 Pushed [a53f031](https://github.com/dousec/portfolio/commit/a53f031f0ca0acebb94d95dbdf1fa3050f5b7ef8) in [dousec/portfolio](https://github.com/dousec/portfolio)
-- 🍱 Pushed [a531c64](https://github.com/dousec/portfolio/commit/a531c644fa9f95c2e02d596fa863d67fbc85e399) in [dousec/portfolio](https://github.com/dousec/portfolio)
+- 🍱 Pushed [c95f3f0](https://github.com/dousec/portfolio/commit/c95f3f0fc2efe84e1ba42830d82766ccf01620a8) in [dousec/portfolio](https://github.com/dousec/portfolio)
+- ⭐ Added a star to [natayadev/portales-empleo](https://github.com/natayadev/portales-empleo)
+- 🍱 Pushed [bb3108b](https://github.com/dousec/portfolio/commit/bb3108b7aa286048470c955ed3c3747104506e7a) in [dousec/portfolio](https://github.com/dousec/portfolio)
+- 🍱 Pushed [3261dbf](https://github.com/dousec/portfolio/commit/3261dbfd99d67a743eca11f5fcb70aec46045deb) in [dousec/portfolio](https://github.com/dousec/portfolio)
+- 🍱 Pushed [e296fa3](https://github.com/dousec/portfolio/commit/e296fa3aa40478992d91296080df9a3fe7109c7e) in [dousec/portfolio](https://github.com/dousec/portfolio)
 <!--END_SECTION:activity-->
 
 <details>
