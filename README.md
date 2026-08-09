@@ -4,11 +4,11 @@
 ### Latest Activity on GitHub :octocat:
 
 <!--START_SECTION:activity-->
+- 🍱 Pushed [f301417](https://github.com/dousec/portfolio/commit/f301417a66bc7ae090644ce648059790eda72676) in [dousec/portfolio](https://github.com/dousec/portfolio)
+- 🍱 Pushed [e1b6ba3](https://github.com/dousec/portfolio/commit/e1b6ba35023ed2ec8dc98eaaa6baa660f1acbf59) in [dousec/portfolio](https://github.com/dousec/portfolio)
+- 🍱 Pushed [ac67ba1](https://github.com/dousec/portfolio/commit/ac67ba1a7225235ef768325a2139acac59e055aa) in [dousec/portfolio](https://github.com/dousec/portfolio)
+- 🍱 Pushed [3e34069](https://github.com/dousec/portfolio/commit/3e340693b64915dc218fef33b62ab7a4597c4279) in [dousec/portfolio](https://github.com/dousec/portfolio)
 - 🍱 Pushed [d89f213](https://github.com/dousec/portfolio/commit/d89f2139a333363394a1dcca17655285f83b9cbd) in [dousec/portfolio](https://github.com/dousec/portfolio)
-- 🍱 Pushed [a232827](https://github.com/dousec/portfolio/commit/a232827a3b1077272438be282302dd8c10e6896b) in [dousec/portfolio](https://github.com/dousec/portfolio)
-- 🍱 Pushed [c95f3f0](https://github.com/dousec/portfolio/commit/c95f3f0fc2efe84e1ba42830d82766ccf01620a8) in [dousec/portfolio](https://github.com/dousec/portfolio)
-- ⭐ Added a star to [natayadev/portales-empleo](https://github.com/natayadev/portales-empleo)
-- 🍱 Pushed [bb3108b](https://github.com/dousec/portfolio/commit/bb3108b7aa286048470c955ed3c3747104506e7a) in [dousec/portfolio](https://github.com/dousec/portfolio)
 <!--END_SECTION:activity-->
 
 <details>
