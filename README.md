@@ -4,11 +4,11 @@
 ### Latest Activity on GitHub :octocat:
 
 <!--START_SECTION:activity-->
-- 🍱 Pushed [f301417](https://github.com/dousec/portfolio/commit/f301417a66bc7ae090644ce648059790eda72676) in [dousec/portfolio](https://github.com/dousec/portfolio)
-- 🍱 Pushed [e1b6ba3](https://github.com/dousec/portfolio/commit/e1b6ba35023ed2ec8dc98eaaa6baa660f1acbf59) in [dousec/portfolio](https://github.com/dousec/portfolio)
-- 🍱 Pushed [ac67ba1](https://github.com/dousec/portfolio/commit/ac67ba1a7225235ef768325a2139acac59e055aa) in [dousec/portfolio](https://github.com/dousec/portfolio)
-- 🍱 Pushed [3e34069](https://github.com/dousec/portfolio/commit/3e340693b64915dc218fef33b62ab7a4597c4279) in [dousec/portfolio](https://github.com/dousec/portfolio)
-- 🍱 Pushed [d89f213](https://github.com/dousec/portfolio/commit/d89f2139a333363394a1dcca17655285f83b9cbd) in [dousec/portfolio](https://github.com/dousec/portfolio)
+- 🍱 Pushed [7740f6f](https://github.com/dousec/portfolio/commit/7740f6fb3cd4923cc0511048311b12d65fac3f0c) in [dousec/portfolio](https://github.com/dousec/portfolio)
+- 🍱 Pushed [5964cb1](https://github.com/dousec/portfolio/commit/5964cb1abbd2c32de8afa1fa82db58b9a59abb6b) in [dousec/portfolio](https://github.com/dousec/portfolio)
+- 🍱 Pushed [8e1e4f7](https://github.com/dousec/portfolio/commit/8e1e4f7febcbd42afb545ba11aaf51214bea8e46) in [dousec/portfolio](https://github.com/dousec/portfolio)
+- 🍱 Pushed [777b3cd](https://github.com/dousec/portfolio/commit/777b3cdfb1fa3c8bccac4c163d3cf063af6240e6) in [dousec/portfolio](https://github.com/dousec/portfolio)
+- 🍱 Pushed [aebced8](https://github.com/dousec/portfolio/commit/aebced8baa5ba31bb3c967945d3aa2a16f67913b) in [dousec/portfolio](https://github.com/dousec/portfolio)
 <!--END_SECTION:activity-->
 
 <details>
