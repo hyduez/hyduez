@@ -4,11 +4,11 @@
 ### Latest Activity on GitHub :octocat:
 
 <!--START_SECTION:activity-->
+- 🍱 Pushed [35f8bca](https://github.com/hyduez/dotfiles/commit/35f8bca54590ff62ffdd534d27dcf2cedb148423) in [hyduez/dotfiles](https://github.com/hyduez/dotfiles)
+- 🍱 Pushed [e7537cc](https://github.com/hyduez/dotfiles/commit/e7537ccfd0775ae9748b3636f6232effd9c464bb) in [hyduez/dotfiles](https://github.com/hyduez/dotfiles)
+- 🍱 Pushed [297cafe](https://github.com/hyduez/dotfiles/commit/297cafe0489a3e663a15a37b831b092c1ad89ab4) in [hyduez/dotfiles](https://github.com/hyduez/dotfiles)
+- 🍱 Pushed [12e60c1](https://github.com/hyduez/dotfiles/commit/12e60c1681d1d9e89d83336f37f9605052bb2fc3) in [hyduez/dotfiles](https://github.com/hyduez/dotfiles)
 - ⭐ Added a star to [go-chi/chi](https://github.com/go-chi/chi)
-- 🍱 Pushed [b080de1](https://github.com/dousec/nixos/commit/b080de10eb19381ca5d6cb394dbad413c125ac1c) in [dousec/nixos](https://github.com/dousec/nixos)
-- 🍱 Pushed [f0e0117](https://github.com/dousec/nixos/commit/f0e01170561d198bd585c197004cc00c35a44553) in [dousec/nixos](https://github.com/dousec/nixos)
-- 🍱 Pushed [abb15e1](https://github.com/dousec/nixos/commit/abb15e12cb49e02dc306b9d35ec166cd91242ec7) in [dousec/nixos](https://github.com/dousec/nixos)
-- 🍱 Pushed [7740f6f](https://github.com/dousec/portfolio/commit/7740f6fb3cd4923cc0511048311b12d65fac3f0c) in [dousec/portfolio](https://github.com/dousec/portfolio)
 <!--END_SECTION:activity-->
 
 <details>
