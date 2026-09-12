@@ -4,11 +4,11 @@
 ### Latest Activity on GitHub :octocat:
 
 <!--START_SECTION:activity-->
+- 🍱 Pushed [f0ff0b2](https://github.com/dousec/nixos/commit/f0ff0b275dfa544967005b1b98c453c9dd5c4726) in [dousec/nixos](https://github.com/dousec/nixos)
+- 🍱 Pushed [7d11573](https://github.com/dousec/nixos/commit/7d1157323c82d6a37076299fffec5c2266d58ce8) in [dousec/nixos](https://github.com/dousec/nixos)
+- 🍱 Pushed [9da8307](https://github.com/dousec/nixos/commit/9da8307c5900e90e3861dcb75277146fc6d709a3) in [dousec/nixos](https://github.com/dousec/nixos)
+- 🍱 Pushed [9bfa029](https://github.com/dousec/nixos/commit/9bfa029d52a65b6c2aa2250e7edb5ff469dd0005) in [dousec/nixos](https://github.com/dousec/nixos)
 - 🌱 Created [master](https://github.com/hyduez/pdf-retrieval/tree/master) branch in [hyduez/pdf-retrieval](https://github.com/hyduez/pdf-retrieval)
-- 🍱 Pushed [297cafe](https://github.com/hyduez/dotfiles/commit/297cafe0489a3e663a15a37b831b092c1ad89ab4) in [hyduez/dotfiles](https://github.com/hyduez/dotfiles)
-- 🍱 Pushed [1310606](https://github.com/hyduez/dotfiles/commit/1310606ba994fc0ea462eddd77d8918bc4d5a89d) in [hyduez/dotfiles](https://github.com/hyduez/dotfiles)
-- ⭐ Added a star to [Squirrel/Squirrel.Windows](https://github.com/Squirrel/Squirrel.Windows)
-- ⭐ Added a star to [remorses/gpuix](https://github.com/remorses/gpuix)
 <!--END_SECTION:activity-->
 
 <details>
