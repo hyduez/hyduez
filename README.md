@@ -4,11 +4,11 @@
 ### Latest Activity on GitHub :octocat:
 
 <!--START_SECTION:activity-->
+- 🍱 Pushed [eaa52aa](https://github.com/dousec/nixos/commit/eaa52aabc4cb8e4ae5bd8d91caa052e1be4da2f7) in [dousec/nixos](https://github.com/dousec/nixos)
 - ⭐ Added a star to [anatol/booster](https://github.com/anatol/booster)
 - 🍱 Pushed [348b540](https://github.com/dousec/nixos/commit/348b54004f726818d9c126b31d985dd761a63d2a) in [dousec/nixos](https://github.com/dousec/nixos)
 - 🍱 Pushed [2104365](https://github.com/dousec/nixos/commit/2104365a1081dafe7a84886a977980d3bb7dbe8e) in [dousec/nixos](https://github.com/dousec/nixos)
 - 🍱 Pushed [4752481](https://github.com/dousec/nixos/commit/4752481a92f1af6de554b6f2ed987d8187b64549) in [dousec/nixos](https://github.com/dousec/nixos)
-- 🍱 Pushed [f0ff0b2](https://github.com/dousec/nixos/commit/f0ff0b275dfa544967005b1b98c453c9dd5c4726) in [dousec/nixos](https://github.com/dousec/nixos)
 <!--END_SECTION:activity-->
 
 <details>
