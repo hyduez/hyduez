@@ -5,10 +5,10 @@
 
 <!--START_SECTION:activity-->
 - 🍱 Pushed [4f0e78f](https://github.com/hyduez/dotfiles/commit/4f0e78fb47cf8264ee8db5dc41bb43c853ed3df3) in [hyduez/dotfiles](https://github.com/hyduez/dotfiles)
+- 🍱 Pushed [09599f5](https://github.com/hyduez/dotfiles/commit/09599f5706787e52783d7cbdba5cfadf87dfb1e1) in [hyduez/dotfiles](https://github.com/hyduez/dotfiles)
+- 🍱 Pushed [4f0e78f](https://github.com/hyduez/dotfiles/commit/4f0e78fb47cf8264ee8db5dc41bb43c853ed3df3) in [hyduez/dotfiles](https://github.com/hyduez/dotfiles)
 - 🍱 Pushed [0e9921d](https://github.com/dousec/nixos/commit/0e9921d6a1fe18d6315fc905b2e38faeb7c2f0f5) in [dousec/nixos](https://github.com/dousec/nixos)
 - 🍱 Pushed [eaa52aa](https://github.com/dousec/nixos/commit/eaa52aabc4cb8e4ae5bd8d91caa052e1be4da2f7) in [dousec/nixos](https://github.com/dousec/nixos)
-- ⭐ Added a star to [anatol/booster](https://github.com/anatol/booster)
-- 🍱 Pushed [348b540](https://github.com/dousec/nixos/commit/348b54004f726818d9c126b31d985dd761a63d2a) in [dousec/nixos](https://github.com/dousec/nixos)
 <!--END_SECTION:activity-->
 
 <details>
