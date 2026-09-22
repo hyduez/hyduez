@@ -6,9 +6,9 @@
 <!--START_SECTION:activity-->
 - 🍱 Pushed [4f0e78f](https://github.com/hyduez/dotfiles/commit/4f0e78fb47cf8264ee8db5dc41bb43c853ed3df3) in [hyduez/dotfiles](https://github.com/hyduez/dotfiles)
 - 🍱 Pushed [297cafe](https://github.com/hyduez/dotfiles/commit/297cafe0489a3e663a15a37b831b092c1ad89ab4) in [hyduez/dotfiles](https://github.com/hyduez/dotfiles)
+- ⭐ Added a star to [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder)
+- ⭐ Added a star to [felixrieseberg/electron-forge-maker-nsis](https://github.com/felixrieseberg/electron-forge-maker-nsis)
 - 🍱 Pushed [4f0e78f](https://github.com/hyduez/dotfiles/commit/4f0e78fb47cf8264ee8db5dc41bb43c853ed3df3) in [hyduez/dotfiles](https://github.com/hyduez/dotfiles)
-- 🍱 Pushed [297cafe](https://github.com/hyduez/dotfiles/commit/297cafe0489a3e663a15a37b831b092c1ad89ab4) in [hyduez/dotfiles](https://github.com/hyduez/dotfiles)
-- 🍱 Pushed [297cafe](https://github.com/hyduez/dotfiles/commit/297cafe0489a3e663a15a37b831b092c1ad89ab4) in [hyduez/dotfiles](https://github.com/hyduez/dotfiles)
 <!--END_SECTION:activity-->
 
 <details>
