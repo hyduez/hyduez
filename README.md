@@ -4,11 +4,11 @@
 ### Latest Activity on GitHub :octocat:
 
 <!--START_SECTION:activity-->
-- 🍱 Pushed [301a757](https://github.com/hyduez/sch/commit/301a7575cc5db572c9992ec4235b4b270fe92a00) in [hyduez/sch](https://github.com/hyduez/sch)
-- 🍱 Pushed [c8adc40](https://github.com/hyduez/sch/commit/c8adc40070b4130b0875925ccd789616524aee9a) in [hyduez/sch](https://github.com/hyduez/sch)
-- 🍱 Pushed [ef3123a](https://github.com/hyduez/sch/commit/ef3123a2cdd6f6e23077213a211c9e69e696512c) in [hyduez/sch](https://github.com/hyduez/sch)
-- 🍱 Pushed [69dfbd9](https://github.com/hyduez/daven-looking-for-his-puddin/commit/69dfbd98c2d4736271525665d22a6fb1e84b6c1a) in [hyduez/daven-looking-for-his-puddin](https://github.com/hyduez/daven-looking-for-his-puddin)
-- 🍱 Pushed [98be87d](https://github.com/hyduez/sch/commit/98be87d4c8fb99e3327bf9cb3ffdfa97622d9287) in [hyduez/sch](https://github.com/hyduez/sch)
+- 🍱 Pushed [297cafe](https://github.com/hyduez/dotfiles/commit/297cafe0489a3e663a15a37b831b092c1ad89ab4) in [hyduez/dotfiles](https://github.com/hyduez/dotfiles)
+- 🍱 Pushed [ada6c8a](https://github.com/hyduez/sch/commit/ada6c8a5f7a5b850e0e755f0f036afd7e7bc8761) in [hyduez/sch](https://github.com/hyduez/sch)
+- 🍱 Pushed [fc484ea](https://github.com/hyduez/sch/commit/fc484eaedb6e5cb5b1d06188f42dd7f271fc02ba) in [hyduez/sch](https://github.com/hyduez/sch)
+- 🍱 Pushed [9d24a3e](https://github.com/hyduez/sch/commit/9d24a3e7a0a5990cbaad8f277e9bbf149a9417bf) in [hyduez/sch](https://github.com/hyduez/sch)
+- 🍱 Pushed [62528e7](https://github.com/hyduez/sch/commit/62528e7105375ff075d2c80f7797ad4f81284bd7) in [hyduez/sch](https://github.com/hyduez/sch)
 <!--END_SECTION:activity-->
 
 <details>
