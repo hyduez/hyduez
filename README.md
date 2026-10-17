@@ -4,11 +4,11 @@
 ### Latest Activity on GitHub :octocat:
 
 <!--START_SECTION:activity-->
+- 🍱 Pushed [4f0e78f](https://github.com/hyduez/dotfiles/commit/4f0e78fb47cf8264ee8db5dc41bb43c853ed3df3) in [hyduez/dotfiles](https://github.com/hyduez/dotfiles)
+- 🍱 Pushed [4f0e78f](https://github.com/hyduez/dotfiles/commit/4f0e78fb47cf8264ee8db5dc41bb43c853ed3df3) in [hyduez/dotfiles](https://github.com/hyduez/dotfiles)
 - 🍱 Pushed [297cafe](https://github.com/hyduez/dotfiles/commit/297cafe0489a3e663a15a37b831b092c1ad89ab4) in [hyduez/dotfiles](https://github.com/hyduez/dotfiles)
 - 🍱 Pushed [4f0e78f](https://github.com/hyduez/dotfiles/commit/4f0e78fb47cf8264ee8db5dc41bb43c853ed3df3) in [hyduez/dotfiles](https://github.com/hyduez/dotfiles)
 - 🍱 Pushed [297cafe](https://github.com/hyduez/dotfiles/commit/297cafe0489a3e663a15a37b831b092c1ad89ab4) in [hyduez/dotfiles](https://github.com/hyduez/dotfiles)
-- 🍱 Pushed [ada6c8a](https://github.com/hyduez/sch/commit/ada6c8a5f7a5b850e0e755f0f036afd7e7bc8761) in [hyduez/sch](https://github.com/hyduez/sch)
-- 🍱 Pushed [fc484ea](https://github.com/hyduez/sch/commit/fc484eaedb6e5cb5b1d06188f42dd7f271fc02ba) in [hyduez/sch](https://github.com/hyduez/sch)
 <!--END_SECTION:activity-->
 
 <details>
