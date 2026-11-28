@@ -4,11 +4,11 @@
 ### Latest Activity on GitHub :octocat:
 
 <!--START_SECTION:activity-->
+- 🍱 Pushed [2796e17](https://github.com/dousec/nixos/commit/2796e1729a1bff188bfa6ee2754f478a307794ac) in [dousec/nixos](https://github.com/dousec/nixos)
+- 🍱 Pushed [4f0e78f](https://github.com/hyduez/dotfiles/commit/4f0e78fb47cf8264ee8db5dc41bb43c853ed3df3) in [hyduez/dotfiles](https://github.com/hyduez/dotfiles)
 - 🍱 Pushed [297cafe](https://github.com/hyduez/dotfiles/commit/297cafe0489a3e663a15a37b831b092c1ad89ab4) in [hyduez/dotfiles](https://github.com/hyduez/dotfiles)
 - 🍱 Pushed [4f0e78f](https://github.com/hyduez/dotfiles/commit/4f0e78fb47cf8264ee8db5dc41bb43c853ed3df3) in [hyduez/dotfiles](https://github.com/hyduez/dotfiles)
 - 🍱 Pushed [4f0e78f](https://github.com/hyduez/dotfiles/commit/4f0e78fb47cf8264ee8db5dc41bb43c853ed3df3) in [hyduez/dotfiles](https://github.com/hyduez/dotfiles)
-- 🍱 Pushed [297cafe](https://github.com/hyduez/dotfiles/commit/297cafe0489a3e663a15a37b831b092c1ad89ab4) in [hyduez/dotfiles](https://github.com/hyduez/dotfiles)
-- 🍱 Pushed [b935a31](https://github.com/dousec/nixos/commit/b935a31568d287f074583951223512ff0e82288b) in [dousec/nixos](https://github.com/dousec/nixos)
 <!--END_SECTION:activity-->
 
 <details>
